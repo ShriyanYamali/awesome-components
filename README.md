@@ -1,4 +1,4 @@
-## A curated list of Next.js and Tailwind CSS component libraries. 
+# A curated list of Next.js and Tailwind CSS component libraries. 
 ### Some of these component libraries may also work with TypeScript, Vue, Svelte, Angular, and Node.
 
 ## Tailwind CSS Component Libraries

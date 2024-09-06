@@ -1,2 +1,46 @@
-# awesome-components
-A curated list of component libraries for Next.js and Tailwind CSS.
+## A curated list of Next.js and Tailwind CSS component libraries. 
+### Some of these component libraries may also work with TypeScript, Vue, Svelte, Angular, and Node.
+
+## Tailwind CSS Component Libraries
+
+1. [Tailwind UI](https://tailwindui.com/)
+2. [Flowbite](https://flowbite.com/)
+3. [DaisyUI](https://daisyui.com/)
+4. [HyperUI](https://www.hyperui.dev/)
+5. [Preline](https://preline.co/)
+6. [Material Tailwind](https://www.material-tailwind.com/)
+7. [Shuffle](https://shuffle.dev/)
+
+## Next.js Component Libraries
+
+1. [Aceternity UI](https://ui.aceternity.com/)
+2. [Shadcn UI](https://ui.shadcn.com/)
+3. [Animata Design](https://animata.design/)
+4. [Magic UI](https://magicui.design/)
+5. [Cult UI](https://www.cult-ui.com/)
+6. [Syntax UI](https://syntaxui.com/)
+7. [Tremor UI](https://raw.tremor.so/)
+8. [MUI (Material UI)](https://mui.com/)
+9. [Mantine](https://mantine.dev/)
+10. [Chakra UI](https://v2.chakra-ui.com/)
+11. [Framer Motion](https://www.framer.com/motion/)
+12. [Radix UI](https://www.radix-ui.com/)
+13. [PrimeReact](https://primereact.org/)
+14. [Ant Design](https://ant.design/)
+15. [React Bootstrap](https://react-bootstrap.github.io/)
+16. [NextUI](https://nextui.org/)
+17. [RSuite](https://rsuitejs.com/)
+18. [Blueprint](https://blueprintjs.com/)
+19. [Park UI](https://park-ui.com/)
+20. [Tailus UI](https://ui.tailus.io/)
+21. [Plume UI](https://plumeui.com/)
+22. [Grommet](https://v2.grommet.io/)
+23. [Orbit](https://orbit.kiwi/)
+24. [Tremor](https://tremor.so/)
+25. [Ant Design](https://ant.design/)
+26. [Shipixen](https://pageui.shipixen.com/)
+27. [Float UI](https://floatui.com/)
+28. [Cloudscape](https://cloudscape.design/)
+29. [Reactstrap](https://reactstrap.github.io/https://www.naiveui.com/)
+30. [Nyxb UI](https://nyxbui.design/)
+31. [Serenity UI](https://www.serenity-ui.com/)

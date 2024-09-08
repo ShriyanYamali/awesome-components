@@ -44,3 +44,4 @@
 29. [Reactstrap](https://reactstrap.github.io/https://www.naiveui.com/)
 30. [Nyxb UI](https://nyxbui.design/)
 31. [Serenity UI](https://www.serenity-ui.com/)
+32. [Bard UI](https://www.bardui.com/)

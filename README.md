@@ -10,6 +10,7 @@
 5. [Preline](https://preline.co/)
 6. [Material Tailwind](https://www.material-tailwind.com/)
 7. [Shuffle](https://shuffle.dev/)
+8. [Bard UI](https://www.bardui.com/)
 
 ## Next.js Component Libraries
 
@@ -44,4 +45,3 @@
 29. [Reactstrap](https://reactstrap.github.io/https://www.naiveui.com/)
 30. [Nyxb UI](https://nyxbui.design/)
 31. [Serenity UI](https://www.serenity-ui.com/)
-32. [Bard UI](https://www.bardui.com/)
